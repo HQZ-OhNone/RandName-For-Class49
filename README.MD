@@ -4,7 +4,7 @@
 该程序由HQZ OhNone使用[Python](https://www.python.org/)编写，
 基于[Pygame](https://www.pygame.prg/)创建，
 开源于[GitHub](https://www.github.com/)。
-开源仓库
+开源仓库[https://github.com/HQZ-OhNone/RandName-For-Class49](https://github.com/HQZ-OhNone/RandName-For-Class49)
 
 # 使用教程
 ![P-1](https://s21.ax1x.com/2025/03/09/pEtTU9s.png)
